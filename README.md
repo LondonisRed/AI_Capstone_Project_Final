@@ -28,6 +28,12 @@ Handwritten Digit Recognition Capstone Project
 Project Overview:
 This capstone project focuses on the study of handwritten digit recognition.
 
+Libraries Need:
+
+ 	- Numpy 
+  	- Matplotlib 
+   	- All are on lastest version.
+
 Code Execution:
 
 
