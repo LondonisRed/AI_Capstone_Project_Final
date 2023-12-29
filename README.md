@@ -32,6 +32,7 @@ Libraries Need:
 
  	- Numpy 
   	- Matplotlib 
+   	- OpenCV
    	- All are on lastest version.
 
 Code Execution:
